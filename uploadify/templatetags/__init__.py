@@ -5,4 +5,4 @@ __author__="tstone"
 __date__ ="$Sep 24, 2009 3:27:35 PM$"
 
 if __name__ == "__main__":
-    print "Hello World";
+    print("Hello World");
